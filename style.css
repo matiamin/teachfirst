@@ -20,7 +20,7 @@ h2:hover {
 }
 
 .position {
-  width: 800px;
+  width: 750px;
   margin: auto;
 }
 
@@ -36,4 +36,12 @@ a:link {
 
 a:hover {
   color: green;
+}
+
+.board {
+  text-align: center;
+}
+
+.advisory {
+  text-align: center;
 }
